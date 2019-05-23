@@ -10,6 +10,8 @@
 <meta property="og:description" content="2019년 6월 22일 오후 1시, 성수초등학교" />
 <meta property="og:image" content="https://user-images.githubusercontent.com/50893303/58217849-9227bc00-7d3f-11e9-92bc-34abebbe7e0d.jpg />
 <meta property="og:image" content="https://user-images.githubusercontent.com/50893303/58217851-9358e900-7d3f-11e9-974a-7cbcb362b958.jpg" />
+<meta property="og:image" content="https://user-images.githubusercontent.com/50893303/58220015-0cf4d500-7d48-11e9-8bcf-d45b173b8804.png" />
+
 <meta property="og:type" content="website" />
 <meta property="og:url" content="rmsidtest.github.io" />
 

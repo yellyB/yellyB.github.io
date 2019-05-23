@@ -97,7 +97,7 @@ body {
 }
 
 .contact_wrap a.bg3 {
-	background-color: #ccf2cb;
+	background-color: #88cccc;
 }
 
 .contact_wrap img {
